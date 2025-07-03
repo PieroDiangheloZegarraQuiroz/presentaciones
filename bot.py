@@ -65,7 +65,7 @@ async def presentacion(
         return
 
     await interaction.followup.send(
-        "📸 Presentación registrada.\nAhora tienes **2 minutos con 30 segundos** para enviar tu imagen en el canal 🐉𝙶alería. Esta se mostrará en tu presentación. De no enviar, tu presentación no tendrá imagen.",
+        "📸 Presentación registrada.\n😊 Ahora tienes **3 minutos con 20 segundos** para enviar tu imagen en el canal 🐉𝙶alería. Esta se mostrará en tu presentación. De no enviar, tu presentación no tendrá imagen.",
         ephemeral=True
     )
 
